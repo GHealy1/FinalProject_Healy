@@ -1,0 +1,5 @@
+C:\Users\23healy5755\source\repos\FinalProject_Healy\FinalProject_Healy\obj\Debug\net6.0\FinalProject_Healy.csproj.AssemblyReference.cache
+C:\Users\23healy5755\source\repos\FinalProject_Healy\FinalProject_Healy\obj\Debug\net6.0\FinalProject_Healy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23healy5755\source\repos\FinalProject_Healy\FinalProject_Healy\obj\Debug\net6.0\FinalProject_Healy.AssemblyInfoInputs.cache
+C:\Users\23healy5755\source\repos\FinalProject_Healy\FinalProject_Healy\obj\Debug\net6.0\FinalProject_Healy.AssemblyInfo.cs
+C:\Users\23healy5755\source\repos\FinalProject_Healy\FinalProject_Healy\obj\Debug\net6.0\FinalProject_Healy.csproj.CoreCompileInputs.cache
